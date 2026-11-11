@@ -46,7 +46,7 @@ Plugins/**/Intermediate/
 # ==========================================
 
 # Uncomment if you don't want to version build scripts/assets
-# Build/
+Build/
 
 # ==========================================
 # Operating system files
